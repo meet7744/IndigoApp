@@ -84,7 +84,7 @@ public class LoginTestcases extends BaseIndigo{
 		
 	}
 	
-	/*
+	
 	@Test (priority = 5)
 	public void ValidCredentials() throws MalformedURLException, InterruptedException
 	{
@@ -118,8 +118,8 @@ public class LoginTestcases extends BaseIndigo{
 		System.out.println("User logged in successfully in the indigo application");
 		
 	}
-	*/
 	
+	/*
 		@Test (priority = 6)
 		public void logout() throws MalformedURLException, InterruptedException
 		{
@@ -156,6 +156,7 @@ public class LoginTestcases extends BaseIndigo{
 			 
 						
 		}
+		*/
 		
 	
 	
